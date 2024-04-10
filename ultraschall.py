@@ -13,7 +13,7 @@ Messung_Faktor = (343460 / 2) # Schallgeschwindigkeit durch 2 (hin und zurück) 
         # Schallgeschwindigkeit gem. https://de.wikipedia.org/wiki/Schallgeschwindigkeit
         # +20°C 343,46m/s
         #   0°C 331,50m/s
-        # −20°C 319,09m/s
+        # −20°C 319,09m/s sss
 Abstand_Max = 4000        # Max value in mm
 Abstand_Max_Error = Abstand_Max + 1
 
